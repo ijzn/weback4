@@ -9,4 +9,4 @@ yarn add webpack webpack-cli -D
 
 
 ## webpack 可以0配置
-- 0配置
+- 0配置优秀啊
